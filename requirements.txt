@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+slither-analyzer
+py-solc-x
+torch
+transformers
+scikit-learn
+networkx
+numpy
+pandas
+matplotlib
+seaborn
+python-multipart
