@@ -36,31 +36,6 @@ Smart Contract Vulnerability Detector is an AI-powered web application that anal
 
 ✅ Modern React UI
 
----
-
-## 🖼️ Screenshots
-
-### Home Page
-
-<p align="center">
-<img width="900" src="https://images.unsplash.com/photo-1639762681057-408e52192e55?w=1200">
-</p>
-
----
-
-### Vulnerability Analysis
-
-<p align="center">
-<img width="900" src="https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200">
-</p>
-
----
-
-### Blockchain Security
-
-<p align="center">
-<img width="900" src="https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=1200">
-</p>
 
 ---
 
